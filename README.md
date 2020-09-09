@@ -5,10 +5,7 @@ I'm a creative and I'm a developer.  I'm a marketer and I'm a programmer. I'm an
 
 Throughout a 20+ year career, I've been a teacher, a writer, an artist, a manager, a consultant, and a developer.  I have served as a VP in one of the largest banks in the US, have led double-digit-sized teams, directed digital marketing strategy and ecommerce for a multinational org, founded and co-founded companies, and designed curriculum used by thousands. I've had my name in the Wall Street Journal, and have consulted organizations across a range of industries on digital strategy, SEO, UX, integrated marketing, and branding, and company growth. 
 
-<br>
-
 --------------------------------------
-<br>
 
 ## <img src="https://github.com/srmchartroom/srmchartroom/raw/master/Fish3.svg" alt="Fishy Fishy" width="50"/> Ok, explain yourself. 
 #### <b>Your background is crazy business- and marketing-oriented. You don't exactly fit the typical developer mold.  How in the world did an MBA marketing creative, a former English teacher for goodness sake, come to be a developer?</b>
@@ -20,12 +17,7 @@ After a decade+ of active front-end development heavily in HTML and CSS, I expan
 
 I couldn't be happier that life and career led me to become as much a developer as I am a marketer, designer, or manager.  
 
-<br>
-
 --------------------------------------
-
-<br>
-
 
 ## <img src="https://github.com/srmchartroom/srmchartroom/raw/master/glasses.svg" alt="Educated Fish" width="50"/>  Education
 
@@ -38,12 +30,10 @@ I couldn't be happier that life and career led me to become as much a developer 
 | <img src="https://github.com/srmchartroom/srmchartroom/raw/master/ASU.png" alt="Appalachian State University" width="50"/><br><p style="text-align: center;"><b>ASU</b></p> | <b>UNDERGRAD</b><br>B.Sc. English | Attended on full academic scholarship.|
 
 <br>
-
-<br>
-
 --------------------
+
 ### <a href="https://srmchartroom.github.io/bootstrap-responsive-portfolio/index.html">Check out my portfolio</a> to see some of the recent projects I've been working on...
+
 ---------------------
-<br>
 
 ![Sea the ecosystem](https://github.com/srmchartroom/srmchartroom/raw/master/PortFooter.gif)
