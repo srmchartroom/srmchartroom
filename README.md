@@ -15,7 +15,7 @@ When push came to shove, I made a better web manager and director of digital by 
 
 After a decade+ of active front-end development heavily in HTML and CSS, I expanded my dev skillset to encompass a fuller range of full-stack development including node, express, react, and broad strengthening of my javascript skillset (ES6). 
 
-I couldn't be happier that life and career led me to become as much a developer as I am a marketer, designer, or manager.  
+I couldn't be happier that life and career led me to become as much a developer as I have been a marketer, designer, or manager.  
 
 --------------------------------------
 
@@ -29,7 +29,7 @@ I couldn't be happier that life and career led me to become as much a developer 
 | <img src="https://github.com/srmchartroom/srmchartroom/raw/master/UNCG.png" alt="University of North Carolina at Greensboro" width="50"/><br><p style="text-align: center;"><b>UNCG</b></p> | <b>GRADUATE:</b><br>MBA | Concentrations in both Marketing (digital and ecommerce) and Operations. Received highest honors awarded to a graduate including Bryan Academic Honor Medal (GPA >3.9), Bryan Leadership & Achievement Award, and Wall Street Journal Award - highest single honor given only to one graduating student. Listed in Wall Street Journal among the highest performing MBAs in the nation.|
 | <img src="https://github.com/srmchartroom/srmchartroom/raw/master/ASU.png" alt="Appalachian State University" width="50"/><br><p style="text-align: center;"><b>ASU</b></p> | <b>UNDERGRAD</b><br>B.Sc. English | Attended on full academic scholarship.|
 
-<br>
+
 --------------------
 
 ### <a href="https://srmchartroom.github.io/bootstrap-responsive-portfolio/index.html">Check out my portfolio</a> to see some of the recent projects I've been working on...
