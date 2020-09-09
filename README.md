@@ -47,7 +47,6 @@ I couldn't be happier that life and career led me to become as much a developer 
 ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Apache_ECharts-informational?style=flat&logo=apache-echarts&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Babel-informational?style=flat&logo=babel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=expressjs&logoColor=white&color=2bbc8a)
