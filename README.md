@@ -10,7 +10,7 @@ Throughout a 20+ year career, I've been a teacher, a writer, an artist, a manage
 --------------------------------------
 <br>
 
-## <img src="fish3.svg" alt="Gull Watching" width="50"/> Ok, explain yourself. 
+## <img src="fish3.svg" alt="Fishy Fishy" width="50"/> Ok, explain yourself. 
 #### <b>Your background is crazy business- and marketing-oriented. You don't exactly fit the typical developer mold.  How in the world did an MBA marketing creative, a former English teacher for goodness sake, come to be a developer?</b>
 
 
