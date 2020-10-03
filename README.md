@@ -111,7 +111,8 @@ I couldn't be happier that life and career led me to become as much a developer 
 ![](https://img.shields.io/badge/Data-mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
 ---------------------
-(There is an interesting story behind the below gif. I'm happy to share it with you if you hire me.)
+( There is an interesting story behind the gif I made below. I'll be happy to share it with you if you hire or work with me. )
+
 ![Sea the ecosystem](https://github.com/srmchartroom/srmchartroom/raw/master/PortFooter.gif)
 
 
