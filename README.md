@@ -1,13 +1,13 @@
 # Hi, I'm Sean. 
 
-## <img src="https://github.com/srmchartroom/srmchartroom/raw/master/gull.svg" alt="Gull Watching" width="50"/> About Sean
+## About Sean
 I'm a creative and I'm a developer.  I'm a marketer and I'm a programmer. I'm an business leader and I'm a code monkey. I'm a behavioral analyst and a data evangelist. And I am voted most likely to be accused of split-personality in my career.
 
 Throughout a 20+ year career, I've been a teacher, a writer, an artist, a manager, a consultant, and a developer.  I have served as a VP in one of the largest banks in the US, have led double-digit-sized teams, directed digital marketing strategy and ecommerce for a multinational org, founded and co-founded companies, and designed curriculum used by thousands. I've had my name in the Wall Street Journal, and have consulted organizations across a range of industries on digital strategy, SEO, UX, integrated marketing, and branding, and company growth. 
 
 --------------------------------------
 
-## <img src="https://github.com/srmchartroom/srmchartroom/raw/master/Fish3.svg" alt="Fishy Fishy" width="50"/> Ok, explain yourself. 
+## Ok, explain yourself. 
 #### <b>Your background is crazy business- and marketing-oriented. You don't exactly fit the typical developer mold.  How in the world did an MBA marketing creative, a former English teacher for goodness sake, come to be a developer?</b>
 
 
@@ -19,7 +19,7 @@ I couldn't be happier that life and career led me to become as much a developer 
 
 --------------------------------------
 
-## <img src="https://github.com/srmchartroom/srmchartroom/raw/master/glasses.svg" alt="Educated Fish" width="50"/>  Education
+## Education
 
 <br>
 
@@ -35,9 +35,6 @@ I couldn't be happier that life and career led me to become as much a developer 
 ### <a href="https://srmchartroom.github.io/bootstrap-responsive-portfolio/index.html">Check out my portfolio</a> to see some of the recent projects I've been working on...
 
 ---------------------
-
-![Sea the ecosystem](https://github.com/srmchartroom/srmchartroom/raw/master/PortFooter.gif)
-
 
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=ios&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -112,3 +109,9 @@ I couldn't be happier that life and career led me to become as much a developer 
 ![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data-mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+
+---------------------
+(There is an interesting story behind the below gif. I'm happy to share it with you if you hire me.)
+![Sea the ecosystem](https://github.com/srmchartroom/srmchartroom/raw/master/PortFooter.gif)
+
+
