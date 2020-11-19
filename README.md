@@ -32,7 +32,7 @@ I couldn't be happier that life and career led me to become as much a developer 
 
 --------------------
 
-### <a href="https://srmchartroom.github.io/bootstrap-responsive-portfolio/index.html">Check out my portfolio</a> to see some of the recent projects I've been working on...
+### <a href="https://srmchartroom.github.io/bootstrap-responsive-portfolio/index.html">You can view my (extremely dated) portfolio</a> to see some various previous projects or check back for my sweet React-based which is currently in progress and I hope to get back to and wrap up soon!
 
 ---------------------
 
