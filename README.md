@@ -25,7 +25,7 @@ I couldn't be happier that life and career led me to become as much a developer 
 
 | University | Degree | Highlights |
 |------------|--------|------------|
-| <img src="https://github.com/srmchartroom/srmchartroom/raw/master/UNC.jfif" alt="University of North Carolina, Chapel Hill" width="50"/><br><p style="text-align: center;"><b>UNC</b></p> | <b>POST GRADUATE:</b><br> Full Stack Developer Program | Currently hold an A+ average; expected completion of program, November 1, 2020. |
+| <img src="https://github.com/srmchartroom/srmchartroom/raw/master/UNC.jfif" alt="University of North Carolina, Chapel Hill" width="50"/><br><p style="text-align: center;"><b>UNC</b></p> | <b>POST GRADUATE:</b><br> Full Stack Developer Program | Completed program, A+ average on all projects and assignments |
 | <img src="https://github.com/srmchartroom/srmchartroom/raw/master/UNCG.png" alt="University of North Carolina at Greensboro" width="50"/><br><p style="text-align: center;"><b>UNCG</b></p> | <b>GRADUATE:</b><br>MBA | Concentrations in both Marketing (digital and ecommerce) and Operations. Received highest honors awarded to a graduate including Bryan Academic Honor Medal (GPA >3.9), Bryan Leadership & Achievement Award, and Wall Street Journal Award - highest single honor given only to one graduating student. Listed in Wall Street Journal among the highest performing MBAs in the nation.|
 | <img src="https://github.com/srmchartroom/srmchartroom/raw/master/ASU.png" alt="Appalachian State University" width="50"/><br><p style="text-align: center;"><b>ASU</b></p> | <b>UNDERGRAD</b><br>B.Sc. English | Attended on full academic scholarship.|
 
